@@ -1,4 +1,8 @@
-# MFQE
+# MFQE Training Code
+
+
+
+# MFQE Test Demo
 
 The demo includes the trained model (for HEVC sequences at QP = 37) and test codes of the MF-CNN in our MFQE approach. 
 
@@ -16,8 +20,15 @@ NOTICE: The trained model (./Demo/HEVC_QP37_model/model.ckpt) are also suitable 
 The training codes, the codes of SVM-based PQF detector and the modified DS-CNN are to be released later.
 
 
-Recommended settings: Ubuntu 14.04, Tensorflow 1.3.0, Python 2.7
+# Recommended settings: 
 
-Dependency: Tensorflow, TFLearn, Numpy, Scipy, matplotlib, skimage
+Ubuntu 14.04, Tensorflow 1.3.0, Python 2.7
+
+# Dependency: 
+
+Tensorflow, TFLearn, Numpy, Scipy, matplotlib, skimage
+
+# Contact
 
 E-mail: yangren@buaa.edu.cn
+WeChat: yangren93
