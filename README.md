@@ -1,7 +1,3 @@
-# MFQE Training Code (Training_Code_MFCNN.zip)
-
-
-
 # MFQE Test Demo (Demo.par1.rar and Demo.part2.rar)
 
 The demo includes the trained model (for HEVC sequences at QP = 37) and test codes of the MF-CNN in our MFQE approach. 
