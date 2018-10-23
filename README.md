@@ -28,4 +28,3 @@ Tensorflow, TFLearn, Numpy, Scipy, matplotlib, skimage
 
 E-mail: yangren@buaa.edu.cn
 
-WeChat: yangren93
