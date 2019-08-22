@@ -1,4 +1,4 @@
-Our latest work of video enhancement is avaiable as https://github.com/ryangchn/QG-ConvLSTM.
+**Our latest work of video enhancement is avaiable as https://github.com/ryangchn/QG-ConvLSTM.**
 
 # MFQE Test Demo 
 
