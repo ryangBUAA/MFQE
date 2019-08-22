@@ -1,8 +1,8 @@
 Our latest work of video enhancement 
 
-Ren Yang, Xiaoyan Sun, Mai Xu and Wenjun Zeng, "Quality-Gated Convolutional LSTM for Enhancing Compressed Video", in IEEE International Conference on Multimedia and Expo (ICME), 2019.
+Ren Yang, Xiaoyan Sun, Mai Xu and Wenjun Zeng, "Quality-Gated Convolutional LSTM for Enhancing Compressed Video", in *IEEE International Conference on Multimedia and Expo (ICME)*, 2019.
 
-is avaiable at https://arxiv.org/abs/1903.04596, or https://ieeexplore.ieee.org/document/8784864, with codes at https://github.com/ryangchn/QG-ConvLSTM.git
+is avaiable at https://github.com/ryangchn/QG-ConvLSTM.git (codes included).
 
 # MFQE Test Demo 
 
