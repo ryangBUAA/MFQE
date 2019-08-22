@@ -1,6 +1,5 @@
-```diff
-- Our latest work of video enhancement is avaiable as https://github.com/ryangchn/QG-ConvLSTM.) 
-```
+<font color="red">Our latest work of video enhancement is avaiable as https://github.com/ryangchn/QG-ConvLSTM.)</font> 
+
 
 # MFQE Test Demo 
 
