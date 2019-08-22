@@ -1,3 +1,5 @@
+Our latest work of video enhancement is avaiable as https://github.com/ryangchn/QG-ConvLSTM.
+
 # MFQE Test Demo 
 
 The demo includes the trained model (for HEVC sequences at QP = 37) and test codes of the MF-CNN in our MFQE approach. 
@@ -24,5 +26,6 @@ Tensorflow, TFLearn, Numpy, Scipy, matplotlib, skimage
 
 # Contact
 
-E-mail: yangren@buaa.edu.cn
+E-mail: r.yangchn@gmail.com, yangren@buaa.edu.cn
+
 WeChat: yangren93
