@@ -1,4 +1,4 @@
-Our latest work of video enhancement 
+Our latest work of video enhancement:
 
 Ren Yang, Xiaoyan Sun, Mai Xu and Wenjun Zeng, "Quality-Gated Convolutional LSTM for Enhancing Compressed Video", in *IEEE International Conference on Multimedia and Expo (ICME)*, 2019.
 
@@ -30,6 +30,6 @@ Tensorflow, TFLearn, Numpy, Scipy, matplotlib, skimage
 
 # Contact
 
-E-mail: r.yangchn@gmail.com, yangren@buaa.edu.cn
+E-mail: r.yangchn@gmail.com
 
 WeChat: yangren93
