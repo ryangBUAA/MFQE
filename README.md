@@ -12,12 +12,9 @@ In this demo, we use frame 96 (non-PQF) of the video sequence BasketballPass as 
 
 As a result, the non-PQF (frame 96) can be enhanced by our MFQE approach, taking advantage of the adjacent PQFs (frames 93 and 97).
 
-Run "./Demo/main.py" to run the demo. 
+Run "main.py" to run the demo. 
 
-After runing, the frame 96 compressed by HEVC and enhanced by our MFQE approach are shown as "./Demo/Frame_96_HEVC.bmp" and "./Demo/Frame_96_our_MFQE.bmp", respectively.
-
-
-NOTICE: The trained model (./Demo/HEVC_QP37_model/model.ckpt) are also suitable for non-PQFs of other video sequences compressed by HEVC at QP = 37. 
+After runing, the frame 96 compressed by HEVC and enhanced by our MFQE approach are shown as "Frame_96_HEVC.bmp" and "Frame_96_our_MFQE.bmp", respectively.
 
 
 # Recommended settings
